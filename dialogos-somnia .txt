@@ -1,0 +1,65 @@
+------------- > Seguir tutorial de criar tela de título para personalizar o menu
+
+------------- > Seguir tutorial de contar história no estilo prólogo
+
+Nara: Eren, rápido, não tenho muito tempo.
+Eren: Essa voz é conhecida, vovô? Mas como?
+Nara: Isso mesmo Eren.
+Eren: Onde o senhor está?
+Nara: Bem aqui, em seu livro de história fantáticas. O SomniaMundo.
+Nara: Escute, pode parecer loucura, mas sua mãe está presa no SomniaMundo.
+Nara: Ela foi raptada por Tyrannus, é ele o responsável por todos esses pesadelos que os habitantes de Fairview estão sofrendo.
+Nara: Você deve detê-lo
+Eren: Mas como vou detê-lo vovô.
+Eren: Se me lembro bem da história...
+Nara: Está em seu sangue garoto. Você é um caçador de pesadelos, sempre foi. Rápido, o portal está se fechando. Pule em direção ao livro.
+
+Caçador Gunter: Bem, esse é o dia e hora especificado pelo mestre Nara. Onde está o escolhido, como ele disse antes de morrer.
+(Eren aparece)
+Caçador Gunter: Quem, esse garoto? Está de brincadeira não é mestre? Bem, só tem uma forma de descobrir.
+Caçador Gunter: Para provar que você de fato é o escolhido, deve entrar em batalha comigo.
+Eren: Eu, batalha, como assim. Você está louco?
+(Batalha)
+(Depois da Batalha)
+Caçador Gunter: Exatamente como o mestre Nara disse. Diga o seu nome escolhido. Eren. Eu serei o seu guia, na jornada de reconquista do Departure Archipelago. Hoje você provou o seu valor como um autêntico caçador de pesadelos. Mas antes é preciso lhe inserir em todo o contexto.
+
+--------------------------- História para começo
+Há muito tempo, aproximadamente mil anos em seu planeta, o mago Genus trazia novas formas de melhorar e intensificar os sonhos da humanidade para que eles fossem cada vez mais reais e inspiradores, porém o seu último experimento de extração completa de essência de pesadelos não deu nada certo e mudou completamente a sua personalidade. A partir daquele momento, ele se denominou Tyrannus e seu único objetivo de vida era destruir SomniaMundo e fazer com que os humanos tenham somente pesadelos para sempre. O caçador de pesadelos Nara, o Venerável, lutou com Tyrannus durante todo esse tempo, porém, há 4 anos atrás ele sucumbiu aos poderes malígnos do mago.
+
+Sem ninguem para impedir sua política expacionista, Tyrannus criou os 4 Lordes dos Pesadelos e deu para cada um a habilidade de criar pesadelos com os 4 maiores medos dos humanos: Peste, Guerra, Fome e Morte. Cada Lorde do pesadelo construiu um castelo em um dos setores do Departure Archipelago e controlam quais pesadelos devem ser enviados para a Terra.
+
+Por enquanto somente a sua cidade está sendo afetada pelos pesadelos, mas se o poder selador de sua mãe for destruído, todo o planeta será afetado.
+
+E como o poder selador de minha mãe pode ser destruído?
+
+Com a morte dela.
+
+Então vamos logo salvá-la.
+
+Calma Eren, você deve se fortaceler antes de lutar com Tyrannus. Pegaremos cada um dos lordes na ordem de sua força, do mais fraco para o mais forte. Será necessário atacar os castelos dos setores na seguinte ordem: tropical praia, tropical floresta, glacial e inferno. Para assim, conseguir a chave de libração da entrada do castelo da Ilha fantasma e enfrentar Tyrannus.
+
+
+---------------------------
+
+
+
+
+SETORES
+* Cada setor da ilha é responsável por tratar de um tipo de sonho diferente. Com os problemas importos pelos lordes do pesadelo a produção desses sonhos cai exponencialmente, até o momento que somente os pesadelos serão gerados.
+* A população é proibida de passar de um setor para outro.
+PRAIA (Guerra)
+* CIDADE 1
+* CASTELO DUNGEON
+Uma serie de brigas entre os clãs da aldeia estão dizimando os habitantes da cidade da areia...
+FLORESTA (Peste)
+* CIDADE 1
+* CIDADE 2
+Uma doença misteriosa está contagiando as crianças e deixando-as cegas ... 
+* CASTELO DUNGEON
+GLACIAL (Fome)
+* CIDADE 1 
+* CASTELO DUNGEON
+Uma onda de frio mais forte do que o comum fez com que todos os animais e plantações da região glacial fossem destruídos, fazendo com que a população passasse por uma fome jamais vista.
+INFERNO (Morte)
+* CASTELO DUNGEON
+Cidade fantasma com os pesadelos (npscs do mal) arrependidos de tanta morte. O chefe do setor mandou que eles se matassem para cumprir a profecia.
